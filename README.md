@@ -1,5 +1,8 @@
 ### ptdr t ki
 
+<!-- <img src="https://img.shields.io/static/v1?label=1&message=test&color=red">&nbsp; -->
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=catarme&hide=PHP&theme=dark" />&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=catarme&&show_icons=true&line_height=27&v=5&theme=dark&hide=contribs,issues" alt="catarme's GitHub Stats" />
 <!--
 **catarme/catarme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
