@@ -1,23 +1,13 @@
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=catarme&hide=PHP&theme=dark" />&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=catarme&&show_icons=true&line_height=30&v=5&theme=dark&hide=contribs,issues" alt="catarme's GitHub Stats" />   -->
+## >_ Hi there 👋
 
-<img src="https://img.shields.io/badge/-VS%20Code-007ACC?label=%20&logo=Visual%20Studio%20Code&labelColor=white&logoColor=007ACC&style=for-the-badge&logoWidth=15">&nbsp;
-<img src="https://img.shields.io/badge/-PYTHON-3776AB?label=%20&logo=Python&labelColor=white&logoColor=3776AB&style=for-the-badge&logoWidth=15">&nbsp;
-<img src="https://img.shields.io/badge/-C-A8B9CC?label=%20&logo=C&labelColor=white&logoColor=A8B9CC&style=for-the-badge&logoWidth=15">&nbsp;
-<img src="https://img.shields.io/badge/-HTML-E34F26?label=%20&logo=HTML5&labelColor=white&logoColor=E34F26&style=for-the-badge&logoWidth=15">&nbsp;
-<img src="https://img.shields.io/badge/-CSS-3776AB?label=%20&logo=CSS3&labelColor=white&logoColor=3776AB&style=for-the-badge&logoWidth=15">&nbsp;
+As a computer science student, I code in my spare time when it's not for pointless projects.
 
-<!--
-**catarme/catarme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### >_ About me?
+  
+- 🎈 I use : `.c` `.java` `.html` `.css` `.py`
+- 🧡 I use : `Visual Studio Code` `Sublime Text` `wsl` `IntelliJ IDEA`
+- 📫 Twitter : [catarme](https://twitter.com/catarme)
+- 🎲 Discord : Catarme#1011
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### >_ Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=catarme&show_icons=true&theme=black&show_icons=true)
