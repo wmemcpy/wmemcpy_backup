@@ -1,5 +1,5 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=catarme&hide=PHP&theme" />&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=catarme&&show_icons=true&line_height=30&v=5&theme&hide=contribs,issues" alt="catarme's GitHub Stats" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=catarme&hide=PHP&theme=dark" />&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=catarme&&show_icons=true&line_height=30&v=5&theme=dark&hide=contribs,issues" alt="catarme's GitHub Stats" />  
 
 <img src="https://img.shields.io/badge/-VS%20Code-007ACC?label=%20&logo=Visual%20Studio%20Code&labelColor=white&logoColor=007ACC&style=for-the-badge&logoWidth=15">&nbsp;
 <img src="https://img.shields.io/badge/-PYTHON-3776AB?label=%20&logo=Python&labelColor=white&logoColor=3776AB&style=for-the-badge&logoWidth=15">&nbsp;
