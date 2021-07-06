@@ -2,7 +2,7 @@
 
 As a computer science student, I code in my spare time when it's not for pointless projects.
 
-## >_ About me?
+## >_ About me ?
   
 - 🎈 I use : `.py` `.c` `.java` `.html` `.css` 
 - 🧡 I use : `Visual Studio Code` `Sublime Text` `Vim`
