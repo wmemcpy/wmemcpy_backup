@@ -10,4 +10,4 @@ As a computer science student, I code in my spare time when it's not for pointle
 - 🎲 Discord : Catarme#1011
 
 ## >_ Stats
-<img align="left" alt="catarme's GitHub Stats" src="https://github-readme-stats-khroners.vercel.app/api?username=catarme&show_icons=true&theme=radical&hide_border=true" />
+<img align="left" alt="celeste GitHub Stats" src="https://github-readme-stats-khroners.vercel.app/api?username=catarme&show_icons=true&theme=radical&hide_border=true" />
