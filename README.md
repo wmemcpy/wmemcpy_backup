@@ -1,13 +1,30 @@
-## >_ Hi there 👋
+<p align='center'>
+    <b>>_ Hi 👋, I'm Céleste</b><br>
+    <a href="https://discord.gg/NBpMYw96TM">Discord</a> |
+    <a href="https://twitter.com/home">Twitter</a>
+</p>
 
-As a computer science student, I code in my spare time when it's not for pointless projects.
+<p>&nbsp;</p>
 
-## >_ About me ?
-  
-- 🎈 I use : `.py` `.c` `.java` <strike>`.js`</strike> `.html` `.css` 
-- 🧡 I use : `Visual Studio Code` `Sublime Text` `Vim`
+---  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=catarme&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catarme&layout=compact)](https://github.com/catarme/github-readme-stats)
+<br>
+<p align="center">
+    <b>My Github Stats</b><br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=catarme&theme=dark&hide_border=true">
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=catarme&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark">
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=catarme&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark">
 
+</p>
+
+<p>&nbsp;</p>
+
+---  
+
+<p align="center"> 
+  Compteur de visites :<br>
+  <img src="https://profile-counter.glitch.me/catarme/count.svg" />
+</p>
