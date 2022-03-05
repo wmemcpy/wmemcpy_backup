@@ -1,9 +1,3 @@
-<p align='center'>
-    <b>>_ Hi 👋, I'm Céleste</b><br>
-    <a href="https://discord.gg/NBpMYw96TM">Discord</a> |
-    <a href="https://twitter.com/catarme">Twitter</a>
-</p>
-
 <p>&nbsp;</p>
 
 ---  
