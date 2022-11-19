@@ -1,24 +1,11 @@
-<p>&nbsp;</p>
+<h1 align="center">feur</h1>
 
----  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cfrancie&label=Profile%20views&color=0e75b6&style=flat" alt="cfrancie" /> </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
 
-<br>
-<p align="center">
-    <b>My Github Stats</b><br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=catarme&theme=dark&hide_border=true">
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=catarme&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark">
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=catarme&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cfrancie&show_icons=true&locale=en" alt="cfrancie" /></p>
 
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cfrancie&" alt="cfrancie" /></p>
 
-<p>&nbsp;</p>
-
----  
-
-<p align="center"> 
-  Compteur de visites :<br>
-  <img src="https://profile-counter.glitch.me/catarme/count.svg" />
-</p>
