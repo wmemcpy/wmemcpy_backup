@@ -1,10 +1,25 @@
-[![](https://visitcount.itsvg.in/api?id=cfrancie&icon=0&color=1)](https://visitcount.itsvg.in)
----
-![](https://github-readme-streak-stats.herokuapp.com/?user=cfrancie&theme=dark&hide_border=false)<br/>
----
+<h1 align="left">Hey what's up ?</h1>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/cfrancie/count.svg?"  />
+</div>
+
+###
+
+<h4 align="left">Student at l'école 42 and in a maths and IT degree course 🇫🇷</h4>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cfrancie&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cfrancie&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=cfrancie&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&date_format=j/n[/Y]&order=3" height="200" alt="streak graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/cfrancie/cfrancie/output/snake.svg" alt="Snake animation" />
+
+###
