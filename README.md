@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="left">Student at l'école 42 and in a maths and IT degree course 🇫🇷</h4>
+<h4 align="left">Student at 42 and in a maths and IT degree course 🇫🇷</h4>
 
 ###
 
