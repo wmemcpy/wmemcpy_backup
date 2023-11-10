@@ -1,14 +1,34 @@
 <h1 align="left">Hey what's up ?</h1>
 
-###
+<h3 align="center">A passionate frontend developer from France 🐤</h3>
 
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)
+### A little more about me...
+
+```cpp
+#include <iostream>
+#include <string>
+#include <vector>
+
+struct Profile {
+    std::vector<std::string> pronouns;
+    std::vector<std::string> code;
+    std::vector<std::string> askMeAbout;
+    std::string currentFocus;
+    std::string funFact;
+};
+
+int main() {
+    Profile wmemcpy = {
+        {"He", "Him"},
+        {"C", "C++", "Python", "Bash", "Rust"},
+        {"low level programming", "tech", "linux", "movies"},
+        "No Focus point at this time",
+        "A successful program is one that is repeated 3 times."
+    };
+    return 0;
+}
+
+```
 
 ###
 
@@ -35,3 +55,5 @@
 </div>
 
 ###
+
+<p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wmemcpy" alt="wmemcpy" /></a> </p>
