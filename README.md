@@ -1,6 +1,6 @@
 <h1 align="left">Hey what's up ?</h1>
 
-<h3 align="center">A passionate frontend developer from France 🐤</h3>
+<h3 align="center">A passionat developer from France 🐤</h3>
 
 ### A little more about me...
 
