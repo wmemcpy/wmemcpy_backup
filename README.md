@@ -1,6 +1,6 @@
-<h1 align="left">Hey what's up ?</h1>
+<h1 align="left">Miaou</h1>
 
-###
+### I'm a student in computer science
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/wmemcpy/count.svg?"  />
@@ -23,6 +23,7 @@
 struct Profile {
     std::vector<std::string> pronouns;
     std::vector<std::string> code;
+    
     std::vector<std::string> askMeAbout;
     std::string currentFocus;
     std::string funFact;
@@ -38,7 +39,6 @@ int main() {
     };
     return 0;
 }
-
 ```
 
 ###
