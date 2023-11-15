@@ -1,6 +1,17 @@
 <h1 align="left">Hey what's up ?</h1>
 
-<h3 align="center">A passionat developer from France 🐤</h3>
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/wmemcpy/count.svg?"  />
+</div>
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,ipfs,linux,docker,vim,md,c,cpp,bash,lua,py,rust,discord,bots" />
+  </a>
+</p>
 
 ### A little more about me...
 
@@ -33,12 +44,6 @@ int main() {
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/wmemcpy/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wmemcpy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=wmemcpy&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&date_format=j/n[/Y]&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wmemcpy&theme=tokyo-night" height="280" alt="streak graph"  />
@@ -54,6 +59,3 @@ int main() {
   </picture>
 </div>
 
-###
-
-<p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wmemcpy" alt="wmemcpy" /></a> </p>
