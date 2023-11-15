@@ -1,4 +1,4 @@
-<h1 align="left">Miaou</h1>
+<h1 align="left">Miaoooooou</h1>
 
 ### I'm a student in computer science
 
