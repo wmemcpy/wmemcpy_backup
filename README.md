@@ -6,7 +6,6 @@
   <img src="https://profile-counter.glitch.me/wmemcpy/count.svg?"  />
 </div>
 
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,ipfs,linux,docker,vim,md,c,cpp,bash,lua,py,rust,discord,bots" />
@@ -41,7 +40,7 @@ int main() {
 }
 ```
 
-### A little more about my github stats...
+### A little more about my github [stats](https://codestats.net/users/wmemcpy)...
 
 <div align="center">
   <picture>
