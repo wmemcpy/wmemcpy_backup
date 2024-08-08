@@ -19,14 +19,14 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_display: large
-          config_octicon: yes
           config_timezone: Europe/Paris
-          plugin_activity: yes
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_limit: 5
-          plugin_activity_load: 300
-          plugin_activity_visibility: all
+          plugin_habits: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_from: 200
+          plugin_habits_languages_limit: 8
+          plugin_habits_languages_threshold: 0%
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_analysis_timeout_repositories: 7.5
@@ -42,9 +42,6 @@ jobs:
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
-          plugin_notable: yes
-          plugin_notable_from: organization
-          plugin_notable_types: commit
           plugin_repositories: yes
           plugin_repositories_order: featured, pinned, starred, random
           plugin_stars: yes
